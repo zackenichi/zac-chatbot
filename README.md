@@ -7,7 +7,7 @@ Clone the repository
 HTTPS
 
 ```
-git clone
+git clone https://github.com/zackenichi/zac-chatbot.git
 ```
 
 in root application, setup everything with one command
